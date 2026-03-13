@@ -1,5 +1,7 @@
 # [Godot V4.5] Rotational Player With Momentum
 
+** This is a mirror from [my framagit](https://framagit.org/machaonix/rotation-player)**
+
 This godot project is an implementation for CharacterBody2D with momentum. 
 
 ## Motivation
