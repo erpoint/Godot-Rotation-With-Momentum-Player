@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://b4gf553r2he26"]
+
+[ext_resource type="PackedScene" uid="uid://df055ab2vccnc" path="res://scenes/PlayerWithMomentum.tscn" id="1_o5qli"]
+
+[node name="Main" type="Node2D"]
+
+[node name="PlayerTest" parent="." instance=ExtResource("1_o5qli")]
+position = Vector2(606, 315)
+rotation_smoothness = 0.05
