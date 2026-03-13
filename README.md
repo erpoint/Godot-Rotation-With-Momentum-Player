@@ -24,8 +24,18 @@ This mean that you can go forward and backward and that to turn, you have to rot
 ## Player Implementation (overview)
 
 [Player script](./scripts/playerWithMomentum.gd)
+
+
 [General function to handle movement and momentum](./scripts/playerWithMomentum.gd#L80)
+
+
 [Player movement along Up/Down axis](./scripts/playerWithMomentum.gd#L71)
+
+
 [Player rotation along Left/Right axis](./scripts/playerWithMomentum.gd#L60)
+
+
 [Movement momentom along Up/Down axis](./scripts/playerWithMomentum.gd#L38)
+
+
 [Rotation momentom along Left/Right axis](./scripts/playerWithMomentum.gd#51)
